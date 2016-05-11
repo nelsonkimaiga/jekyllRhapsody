@@ -50,3 +50,14 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+html,
+body {
+    font-family: 'Raleway', serif;
+    color: #666;
+    text-align: left;
+    background: url("codeheader.jpg");
+    line-height: 26.4px;
+    font-style: normal;
+    font-variant: normal;
+}
