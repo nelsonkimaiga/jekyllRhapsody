@@ -9,6 +9,5 @@ twitter_username: Nelsonguto
 github_username:  nelsonkimaiga
 
 # Build settings
-markdown: kramdown
-
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
